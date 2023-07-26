@@ -1,0 +1,66 @@
+nodes,state,ID,latitude,longitude
+Anantapur,Andhra Pradesh,1,14.6758,77.6307
+Unspecified-Andhra Pradesh,Andhra Pradesh,2,15.9129,79.74
+Chittoor,Andhra Pradesh,3,13.4788,78.8383
+Krishna,Andhra Pradesh,4,16.61,80.7214
+Visakhapatnam,Andhra Pradesh,5,17.724,82.7347
+Tirupati,Andhra Pradesh,6,13.6288,79.4192
+Rohtas,Bihar,7,25.0686,84.0167
+Patna,Bihar,8,25.484,85.0233
+Gaya,Bihar,9,24.7213,84.8568
+Delhi,Delhi,10,28.7041,77.1025
+Ahmedabad,Gujarat,11,22.8401,72.2364
+Vadodara,Gujarat,12,22.2065,73.1822
+Surat,Gujarat,13,21.2629,72.9933
+Bangkok,International,14,13.7563,100.5018
+Macau,International,15,22.1987,113.5439
+Unspecified-Sri Lanka,International,16,7.8731,80.7718
+Kuala Lumpur,International,17,3.1319,101.6841
+Colombo,International,18,6.9271,79.8612
+Jessore,International,19,23.1778,89.1801
+Dhaka,International,20,23.8103,90.4125
+Unspecified-Bangladesh,International,21,23.685,90.3563
+Unspecified-Malaysia ,International,22,4.2105,101.9758
+Dubai,International,23,25.2048,55.2708
+Hong Kong,International,24,22.3193,114.1694
+Phuket,International,25,7.8804,98.3923
+Jakarta,International,26,6.2088,106.8456
+Unspecified-China,International,27,35.8617,104.1954
+Bengaluru,Karnataka,28,12.9716,77.5946
+Unspecified-Karnataka,Karnataka,29,15.3173,75.7139
+Chikkaballapur,Karnataka,30,13.4355,77.7315
+Thiruvananthapuram,Kerala,31,8.5307,77.1025
+Kochi,Kerala,32,9.952,76.2577
+Kozhikode,Kerala,33,11.4941,75.8534
+Dewas,Madhya Pradesh,34,22.698,76.3637
+Indore,Madhya Pradesh,35,22.649,75.8069
+Mumbai,Maharashtra,36,19.001,72.8397
+Pune,Maharashtra,37,18.6833,74.03
+Nagpur,Maharashtra,38,21.317,79.2
+Thane,Maharashtra,39,19.2696,73.3709
+Dimapur,Nagaland,40,25.779,93.8045
+Khordha,Odisha,41,20.1301,85.4788
+Chennai,Tamil Nadu,42,13.1043,80.2544
+Coimbatore,Tamil Nadu,43,10.9675,76.9182
+Tiruchirappalli,Tamil Nadu,44,11.0346,78.5661
+Madurai,Tamil Nadu,45,9.9533,78.0195
+Thoothukudi,Tamil Nadu,46,8.9063,78.0195
+Agra,Uttar Pradesh,47,27.1281,78.0195
+Jhansi,Uttar Pradesh,48,25.5394,79.1097
+Allahabad,Uttar Pradesh,49,25.3481,81.9535
+Unspecified-Uttar Pradesh ,Uttar Pradesh,50,27.5706,80.0982
+Lucknow,Uttar Pradesh,51,26.7863,80.8987
+Sultanpur,Uttar Pradesh,52,26.2977,82.1278
+Raebareli,Uttar Pradesh,53,26.2145,81.2528
+Varanasi,Uttar Pradesh,54,25.3521,82.9502
+Bareilly,Uttar Pradesh,55,28.5426,79.4704
+Kanpur Nagar,Uttar Pradesh,56,26.4148,80.2321
+Etawah,Uttar Pradesh,57,26.8458,79.1097
+Firozabad,Uttar Pradesh,58,27.1741,78.5661
+Meerut,Uttar Pradesh,59,28.9564,77.8367
+Udham Singh Nagar,Uttarakhand,60,28.961,79.5154
+Kolkata,West Bengal,61,22.5726,88.3639
+Unspecified-West Bengal ,West Bengal,62,22.9868,87.855
+North 24 Parganas,West Bengal,63,22.71,88.7109
+Howrah,West Bengal,64,22.5604,88.051
+Paschim Burdwan,West Bengal,65,23.6902,87.1822

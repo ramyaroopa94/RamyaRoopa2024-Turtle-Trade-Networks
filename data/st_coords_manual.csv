@@ -1,0 +1,55 @@
+nodes,state,ID,latitude,longitude
+Visakhapatnam,Andhra Pradesh,1,17.724,82.7347
+Unspecified-Andhra Pradesh,Andhra Pradesh,2,15.9129,79.74
+East Godavari,Andhra Pradesh,3,17.3213,82.0407
+Krishna,Andhra Pradesh,4,16.61,80.7214
+Patna,Bihar,5,25.484,85.0233
+Unspecified-Bihar,Bihar,6,25.9644,85.2722
+Delhi,Delhi,7,28.7041,77.1025
+Unspecified-Bangladesh,International,8,23.685,90.3563
+Bangkok,International,9,13.7563,100.5018
+Macau,International,10,22.1987,113.5439
+Hong Kong,International,11,22.3193,114.1694
+Sahibganj,Jharkhand,12,25.0282,87.6581
+Dumka,Jharkhand,13,24.2685,87.2488
+Dhanbad,Jharkhand,14,23.8189,86.4997
+Puri,Odisha,15,19.9965,85.8486
+Khordha,Odisha,16,20.1301,85.4788
+Sambalpur,Odisha,17,21.4698,84.1857
+Cuttack,Odisha,18,20.4196,85.6435
+Balasore,Odisha,19,21.3469,86.6611
+Unspecified-Odisha ,Odisha,20,20.2376,84.27
+Malkangiri,Odisha,21,18.1641,81.9535
+Unspecified-Rajasthan ,Rajasthan,22,27.0238,74.2179
+West Tripura,Tripura,23,23.8997,91.4048
+Sultanpur,Uttar Pradesh,24,26.2977,82.1278
+Raebareli,Uttar Pradesh,25,26.2145,81.2528
+Varanasi,Uttar Pradesh,26,25.3521,82.9502
+Unspecified-Uttar Pradesh ,Uttar Pradesh,27,27.5706,80.0982
+Auraiya,Uttar Pradesh,28,26.687,79.4704
+Pratapgarh,Uttar Pradesh,29,25.9026,81.7787
+Lucknow,Uttar Pradesh,30,26.7863,80.8987
+Jaunpur,Uttar Pradesh,31,25.7464,82.6837
+Faizabad,Uttar Pradesh,32,26.663,81.9535
+Amethi,Uttar Pradesh,33,26.3174,81.6473
+Bareilly,Uttar Pradesh,34,28.5426,79.4704
+Allahabad,Uttar Pradesh,35,25.3481,81.9535
+Gonda,Uttar Pradesh,36,27.0374,81.9535
+Chandauli,Uttar Pradesh,37,25.1794,83.2934
+Mainpuri,Uttar Pradesh,38,27.2177,79.1097
+Ambedkar Nagar,Uttar Pradesh,39,26.3745,82.6915
+Fatehpur,Uttar Pradesh,40,25.85,80.8987
+Etawah,Uttar Pradesh,41,26.8458,79.1097
+Agra,Uttar Pradesh,42,27.1281,78.0195
+Udham Singh Nagar,Uttarakhand,43,28.961,79.5154
+Nainital,Uttarakhand,44,29.2794,79.4704
+North 24 Parganas,West Bengal,45,22.71,88.7109
+Purba Bardhaman,West Bengal,46,23.2736,87.9335
+Nadia,West Bengal,47,23.471,88.5565
+Hooghly,West Bengal,48,22.8963,88.2461
+Howrah,West Bengal,49,22.5604,88.051
+Paschim Bardhaman,West Bengal,50,23.6902,87.1822
+Kolkata,West Bengal,51,22.5726,88.3639
+Malda,West Bengal,52,25.1786,88.2461
+Unspecified-West Bengal ,West Bengal,53,22.9868,87.855
+Paschim Medinipur,West Bengal,54,22.5046,87.4604
